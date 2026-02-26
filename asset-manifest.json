@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/botforge-app/static/css/main.f855e6bc.css",
-    "main.js": "/botforge-app/static/js/main.7fec9a35.js",
+    "main.css": "/botforge-app/static/css/main.e6c13ad2.css",
+    "main.js": "/botforge-app/static/js/main.73ac9d1b.js",
     "static/js/453.9fcc90eb.chunk.js": "/botforge-app/static/js/453.9fcc90eb.chunk.js",
-    "static/media/logo.svg": "/botforge-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/botforge-app/index.html",
-    "main.f855e6bc.css.map": "/botforge-app/static/css/main.f855e6bc.css.map",
-    "main.7fec9a35.js.map": "/botforge-app/static/js/main.7fec9a35.js.map",
+    "main.e6c13ad2.css.map": "/botforge-app/static/css/main.e6c13ad2.css.map",
+    "main.73ac9d1b.js.map": "/botforge-app/static/js/main.73ac9d1b.js.map",
     "453.9fcc90eb.chunk.js.map": "/botforge-app/static/js/453.9fcc90eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7fec9a35.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73ac9d1b.js"
   ]
 }
